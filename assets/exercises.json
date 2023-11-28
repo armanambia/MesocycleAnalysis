@@ -1,0 +1,47 @@
+{
+    "Chest": [
+      "Barbell Bench Press",
+      "Machine Fly",
+      "Cable Fly",
+      "Incline Barbell Press",
+      "Flat Machine Press",
+      "Incline Machine Press"
+    ],
+    "Back": [
+      "T Bar Row",
+      "Landmine Row",
+      "Lat Pulldown",
+      "Seated Cable Row",
+      "Pull Ups",
+      "Lat Pullover"
+    ],
+    "Tricep": [
+      "Cable Tricep Extension",
+      "Tricep Dips",
+      "Skull Crusher"
+    ],
+    "Bicep": [
+      "Barbell Curl",
+      "Dumbbell Curl",
+      "Cable Curl",
+      "Hammer Curl"
+    ],
+    "Shoulders": [
+      "Barbell Overhead Press",
+      "Face Pull",
+      "Cable Lateral Raise",
+      "Dumbbell Lateral Raise",
+      "Reverse Machine Fly"
+    ],
+    "Legs": [
+      "Lying Leg Curl",
+      "Hack Squat",
+      "Seated Leg Extension"
+    ],
+    "Abs": [
+      "Plank",
+      "Hanging Knee Raise",
+      "Hanging Leg Raise",
+      "Good Mornings"
+    ]
+  }
