@@ -1,5 +1,5 @@
 {
-    "1": [
+    "Push + Bis": [
       "Barbell Bench Press",
       "Machine Fly",
       "Incline Machine Press",
@@ -7,7 +7,7 @@
       "Cable Lateral Raise",
       "Cable Curl"
     ],
-    "2": [
+    "Pull + Tris": [
       "Barbell Curl",
       "T Bar Row",
       "Lat Pulldown",
@@ -15,7 +15,7 @@
       "Skull Crusher",
       "Hanging Leg Raise"
     ],
-    "3": [
+    "Legs + Tricep + Shoulder": [
       "Lying Leg Curl",
       "Hack Squat",
       "Seated Leg Extension",
@@ -23,7 +23,7 @@
       "Face Pull",
       "Dumbbell Lateral Raise"
     ],
-    "4": [
+    "Chest + Shoulder + Arms": [
       "Incline Barbell Press",
       "Cable Fly",
       "Flat Machine Press",
@@ -31,7 +31,7 @@
       "Dumbbell Lateral Raise",
       "Hanging Leg Raise"
     ],
-    "5": [
+    "Pull + Shoulder + Tris": [
       "Barbell Overhead Press",
       "Pull Ups",
       "Seated Cable Row",
