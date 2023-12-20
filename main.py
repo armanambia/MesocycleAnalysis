@@ -14,7 +14,7 @@ def process_day(cur):
     res = OrderedDict.fromkeys(exercise_dict,0)
     for ex in cur:
         for key,val in exercise_dict.items():
-            if ex in val:
+            if ex[0] in val:
                 res[key] = res.get(key, 0) + 1
     return res
 
@@ -26,18 +26,16 @@ def process_week():
 
 def calc_weekly_exercises():
     res = OrderedDict.fromkeys(exercise_dict,0)
-    print(res)
-    
     for e in week_breakdown.values():
         res = {x: res.get(x,0) + e.get(x,0) for x in res.keys()}
     return res
 
 
-exercise_dict = load('assets\exercises.json')
+exercise_dict = load('assets/exercises.json')
 for key,val in exercise_dict.items():
     exec(key + '=val')
 
-week_dict = load('assets\week.json')
+week_dict = load('assets/week.json')
 for key,val in week_dict.items():
     exec(str(key).replace(" ", "").replace("+","_") + '=val')
 

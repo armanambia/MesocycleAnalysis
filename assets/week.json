@@ -1,42 +1,42 @@
 {
     "Push + Bis": [
-      "Barbell Bench Press",
-      "Machine Fly",
-      "Incline Machine Press",
-      "Cable Tricep Extension",
-      "Cable Lateral Raise",
-      "Cable Curl"
+      ["Barbell Bench Press",2],
+      ["Machine Fly",2],
+      ["Incline Machine Press",2],
+      ["Cable Tricep Extension",2],
+      ["Cable Lateral Raise",2],
+      ["Cable Curl",2]
     ],
     "Pull + Tris": [
-      "Barbell Curl",
-      "T Bar Row",
-      "Lat Pulldown",
-      "Tricep Dips",
-      "Skull Crusher",
-      "Hanging Leg Raise"
+      ["Barbell Curl",2],
+      ["T Bar Row",2],
+      ["Lat Pulldown",2],
+      ["Tricep Dips",2],
+      ["Skull Crusher",2],
+      ["Hanging Leg Raise",2]
     ],
     "Legs + Tricep + Shoulder": [
-      "Lying Leg Curl",
-      "Hack Squat",
-      "Seated Leg Extension",
-      "Cable Tricep Extension",
-      "Face Pull",
-      "Dumbbell Lateral Raise"
+      ["Lying Leg Curl",2],
+      ["Hack Squat",2],
+      ["Seated Leg Extension",2],
+      ["Cable Tricep Extension",2],
+      ["Face Pull",2],
+      ["Dumbbell Lateral Raise",2]
     ],
     "Chest + Shoulder + Arms": [
-      "Incline Barbell Press",
-      "Cable Fly",
-      "Flat Machine Press",
-      "Hammer Curl",
-      "Dumbbell Lateral Raise",
-      "Hanging Leg Raise"
+      ["Incline Barbell Press",2],
+      ["Cable Fly",2],
+      ["Flat Machine Press",2],
+      ["Hammer Curl",2],
+      ["Dumbbell Lateral Raise",2],
+      ["Hanging Leg Raise",2]
     ],
     "Pull + Shoulder + Tris": [
-      "Barbell Overhead Press",
-      "Pull Ups",
-      "Seated Cable Row",
-      "Dumbbell Curl",
-      "Tricep Dips",
-      "Hanging Leg Raise"
+      ["Barbell Overhead Press",2],
+      ["Pull Ups",2],
+      ["Seated Cable Row",2],
+      ["Dumbbell Curl",2],
+      ["Tricep Dips",2],
+      ["Hanging Leg Raise",2]
     ]
   }
